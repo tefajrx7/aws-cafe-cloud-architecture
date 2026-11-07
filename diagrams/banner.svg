@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="AWS Café — Cloud Architecture Journey, stages V1 to V7">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF8EA"/><stop offset="0.55" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EAF2FB"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#E39A2D"/><stop offset="1" stop-color="#2F6FB5"/></linearGradient>
+</defs>
+<rect width="1280" height="400" fill="url(#bg)"/>
+<rect width="14" height="400" fill="#E39A2D"/>
+<text x="64" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#5B6472">AWS ACADEMY CHALLENGE LABS  ·  TRAINING ENVIRONMENT</text>
+<text x="64" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#1F2A37">AWS Café</text>
+<text x="64" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#2F6FB5">Cloud Architecture Journey</text>
+<line x1="110.0" y1="250" x2="1170.1999999999998" y2="250" stroke="url(#ln)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="110" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="110" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V1</text>
+<text x="110" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">Amazon S3</text>
+<circle cx="287" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="287" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V2</text>
+<text x="287" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">EC2</text>
+<circle cx="463" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="463" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V3</text>
+<text x="463" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">RDS</text>
+<circle cx="640" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="640" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V4</text>
+<text x="640" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">VPC</text>
+<circle cx="817" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="817" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V5</text>
+<text x="817" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">ALB + Auto Scaling</text>
+<circle cx="994" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="994" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V6</text>
+<text x="994" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">CloudFormation</text>
+<circle cx="1170" cy="250" r="26" fill="#FFFFFF" stroke="#E39A2D" stroke-width="4"/><text x="1170" y="256" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1F2A37">V7</text>
+<text x="1170" y="306" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#374151">Lambda + SNS</text>
+<text x="64" y="374" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#5B6472">From a static website to a scalable, highly available, automated and serverless architecture</text>
+</svg>
